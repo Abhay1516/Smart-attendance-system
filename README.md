@@ -101,15 +101,22 @@ python mainwindow.py
 
 🤖 Anti-spoofing & emotion detection
 
-📄 License
-This project is licensed under the MIT License.
-Feel free to use, modify, and share for academic or professional projects.
 
-👨‍🎓 Author
-Abhay Singh
-🎓 B.Tech in Computer Science & Engineering – PSIT Kanpur
-📧 singhabhay1516@gmail.com
-🌐 https://www.linkedin.com/in/abhaysingh0224/ 
+## 📄 License
 
-⭐ If you found this project helpful, don’t forget to star the repository on GitHub!
+This project is licensed under the **MIT License**.  
+Feel free to **use**, **modify**, and **share** for academic or professional purposes.
+
+---
+
+## 👨‍🎓 Author
+
+**Abhay Singh**  
+🎓 B.Tech in Computer Science & Engineering – PSIT Kanpur  
+📧 [singhabhay1516@gmail.com](mailto:singhabhay1516@gmail.com)  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/abhaysingh0224/)
+
+---
+
+> ⭐ **If you found this project helpful, don’t forget to _star_ the repository on GitHub!**
 
